@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaidrsk&label=Profile%20views&color=0e75b6&style=flat" alt="usamaidrsk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/usamaidrsk" target="blank"><img src="https://img.shields.io/twitter/follow/usamaidrsk?logo=twitter&style=for-the-badge" alt="usamaidrsk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/usamaidris567" target="blank"><img src="https://img.shields.io/twitter/follow/usamaidris567?logo=twitter&style=for-the-badge" alt="usamaidris567" /></a> </p>
 
 - 🔭 I’m currently working on [Guiomentor](guiomentor.com)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/usamaidrsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaidrsk" height="30" width="40" /></a>
+<a href="https://twitter.com/usamaidris567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaidris567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/uik567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uik567/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12285535/usamaidrsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12285535/usamaidrsk" height="30" width="40" /></a>
 </p>
