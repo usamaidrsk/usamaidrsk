@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Guiomentor](guiomentor.com)
 
-- 🌱 I’m currently learning **Dart, Golang, Java, Python, C++, Databases(Postgress, MongoDB, Mysql), Mobile Qpp Development**
+- 🌱 I’m currently learning **Dart, Golang, Java, Python, C++, Databases(Postgress, MongoDB, Mysql), Mobile App Development**
 
 - 💬 Ask me about **javascript, Vuejs, Angular, React**
 
