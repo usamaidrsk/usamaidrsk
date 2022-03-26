@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/usamaidris567" target="blank"><img src="https://img.shields.io/twitter/follow/usamaidris567?logo=twitter&style=for-the-badge" alt="usamaidris567" /></a> </p>
 
-- 🔭 I’m currently working on [Guiomentor](guiomentor.com)
-
 - 🌱 I’m currently learning **Dart, Golang, Java, Python, C++, Databases(Postgress, MongoDB, Mysql), Mobile App Development**
 
 - 💬 Ask me about **javascript, Vuejs, Angular, React**
