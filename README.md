@@ -14,6 +14,7 @@
 <a href="https://twitter.com/usamaidris567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamaidris567" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uik567/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uik567/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12285535/usamaidrsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12285535/usamaidrsk" height="30" width="40" /></a>
+  <a href="https://gitlab.com/usamaidrsk" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgitlab_5968853&psig=AOvVaw3x6oNvGwCgMDb0Yvd5aXd5&ust=1652792528259000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIihrY6K5PcCFQAAAAAdAAAAABAD" alt="https://gitlab.com/usamaidrsk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
