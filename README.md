@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usama Idriss Kakumba</h1>
-<h3 align="center">A developing developer ... from Kampala Uganda😄</h3>
+<h3 align="center">A developing developer 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaidrsk&label=Profile%20views&color=0e75b6&style=flat" alt="usamaidrsk" /> </p>
 
